@@ -35,5 +35,4 @@ for product in container:
 pprint(brand_products, indent=4)
 
 
-input("Press Enter to close the browser and exit...")
 driver.close()

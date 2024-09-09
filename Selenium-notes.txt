@@ -1,3 +1,6 @@
+chatGPT : https://chatgpt.com/share/cda2ed3e-39ac-4024-9e8b-14b0cc4e107e
+
+
 from selenium import webdriver								-> for selenium package
 from selenium.webdriver.common.keys import Keys				-> for key strokes like keys.RETURN for using enter key
 from selenium.webdriver.common.by import By					-> used for selector like By.CLASS_NAME etc
